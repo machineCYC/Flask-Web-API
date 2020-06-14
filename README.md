@@ -48,6 +48,13 @@ REST 指的是網路中 Client 端和 Server 端的一種呼叫服務形式，�
 
 CRUD 為 Create(新增)、Read(讀取)、Update(更新)與Delete(刪除)的縮寫。
 
+
+## Swagger API 規範
+
+Swagger 是由 Reverb technologies 公司，所開的 API 規範， 在 2015 年度被貢獻給 OpenAPI 成為標準規範
+
+專案使用到 API 通常都要建立文件，透過 Swagger API 的方式可以快速建立文件，讓使用者清楚且快速地了解接受到的資料格式
+
 ## Reference
 
 - [輕鬆學習 Python：使用 Flask 創建 Web API](https://medium.com/datainpoint/flask-web-api-quickstart-3b13d96cccc2)
