@@ -1,4 +1,4 @@
 flask==1.1.1
 FinMind==1.0.80
 pandas==0.25.1
-requests==2.22.0
+requests==2.31.0
